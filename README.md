@@ -1,6 +1,5 @@
 <div align="center">
 🌍 Air Quality Index Analysis
-Python × Power BI = 🔥
 
 Turning polluted data into clean insights.
 
